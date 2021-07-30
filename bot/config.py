@@ -4,7 +4,7 @@ class config:
     API_HASH = "96c0303474a0fed07ecaa0c7bbf1163d"
     DATABASE_URL = "postgres://dabhypehcrogpg:bfb4524b014856f9c949f5078b6d8cfbb4cd935591bc903749655e64eea86d6d@ec2-3-213-146-52.compute-1.amazonaws.com:5432/dbleq6glk7j7ma"
     SUDO_USERS = "1873215138" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/joinchat/46eF008p2Bg3NTUx"
+    SUPPORT_CHAT_LINK = ""
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "970481951013-5bsqfbhm1q46lknnm4ej35b5lth3j36c.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "vSy-UJsUAL0S4WMmZGtXSUos"
